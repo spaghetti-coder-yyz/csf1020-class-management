@@ -6,6 +6,7 @@ Table: student
 student_id
 first_name
 last_name
+email
 
 Table: enrollment
 student_id
